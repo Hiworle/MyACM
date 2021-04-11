@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\Hope\source\repos\Ananagrams_UVa156\Ananagrams_UVa156\源.cpp(16,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hope\source\repos\Ananagrams_UVa156\Ananagrams_UVa156\源.cpp(44,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hope\source\repos\Ananagrams_UVa156\Ananagrams_UVa156\源.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+  Ananagrams_UVa156.vcxproj -> C:\Users\Hope\source\repos\Ananagrams_UVa156\Debug\Ananagrams_UVa156.exe
